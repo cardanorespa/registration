@@ -10,19 +10,16 @@ Simply create a pull request after adding the information of your pool in the re
 
 Registration JSON Example:
 
-[
-    {
-        "ticker":"GOALS",
-        "poolId":"pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",
-        "social":{
-           "facebook":"",
-           "twitter":"adaGOALS",
-           "website":"https://ada-goals.com",
-           "reddit":"GOALS_Stake_Pool",
-           "instagram":"",
-           "youtube":""
-        },
-        "telegram":"ADA_Goals_Stake_Pool",
-        "operatorName":"",
-        "github":""
-    },
+{
+ "ticker": "GOALS",                                                       # Mandatory
+ "poolId": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",  # Mandatory
+ "social": {                                                            # At least 1 Mandatory more optional
+   "twitter": "adaGOALS",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "ADA_GOALS_Stake_Pool",                                             # Mandatory Personal Telegram Handle
+ "operatorName": " ",                                   # Optional
+ "github": " "                                                     # Optional
+}
