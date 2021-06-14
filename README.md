@@ -1,6 +1,6 @@
 # Registration
 
-In this repo, pool operators may register to be a member of the Cardano Renewable Energy Stake Pool Alliance.
+In this repo, pool operators may register to become a member of the Cardano Renewable Energy Stake Pool Alliance.
 
 By submitting a pull request you agree that all the submited information will be publicly available to everyone.
 
