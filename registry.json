@@ -28,5 +28,20 @@
         "telegram":"@mini1pool",
         "operatorName":"",
         "github":""
+    },
+    {
+        "ticker":"GREEN",
+        "poolId":"pool1xj5f7a79lnc9v0gjn00fkf2lyzexngka59tpcew5rrkyqveagpt",
+        "social":{
+           "facebook":"",
+           "twitter":"Gr88nCardano",
+           "website":"https://www.greenstakepool.com/",
+           "reddit":"",
+           "instagram":"",
+           "youtube":""
+        },
+        "telegram":"@gr88nd48l",
+        "operatorName":"",
+        "github":""
     }
 ]
