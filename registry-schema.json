@@ -1,0 +1,176 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "http://example.com/example.json",
+    "type": "array",
+    "title": "The root schema",
+    "description": "The root schema comprises the entire JSON document.",
+    "default": [],
+    "examples": [
+        [
+            {
+                "ticker": "GOALS",
+                "poolId": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",
+                "social": {
+                    "twitter": "adaGOALS",
+                    "facebook": " ",
+                    "instagram": " ",
+                    "youtube": " "
+                },
+                "telegram": "ADA_Goals_Stake_Pool",
+                "operatorName": " ",
+                "github": " "
+            }
+        ]
+    ],
+    "additionalItems": true,
+    "items": {
+        "$id": "#/items",
+        "anyOf": [
+            {
+                "$id": "#/items/anyOf/0",
+                "type": "object",
+                "title": "The first anyOf schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": {},
+                "examples": [
+                    {
+                        "ticker": "GOALS",
+                        "poolId": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",
+                        "social": {
+                            "twitter": "adaGOALS",
+                            "facebook": " ",
+                            "instagram": " ",
+                            "youtube": " "
+                        },
+                        "telegram": "ADA_Goals_Stake_Pool",
+                        "operatorName": " ",
+                        "github": " "
+                    }
+                ],
+                "required": [
+                    "ticker",
+                    "poolId",
+                    "social",
+                    "telegram"
+                ],
+                "properties": {
+                    "ticker": {
+                        "$id": "#/items/anyOf/0/properties/ticker",
+                        "type": "string",
+                        "title": "The ticker schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "BSP"
+                        ]
+                    },
+                    "poolId": {
+                        "$id": "#/items/anyOf/0/properties/poolId",
+                        "type": "string",
+                        "title": "The poolId schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957"
+                        ]
+                    },
+                    "social": {
+                        "$id": "#/items/anyOf/0/properties/social",
+                        "type": "object",
+                        "title": "The social schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": {},
+                        "examples": [
+                            {
+                                "twitter": "adaGOALS",
+                                "facebook": " ",
+                                "instagram": " ",
+                                "youtube": " "
+                            }
+                        ],
+                        "required": [
+                            "twitter",
+                            "facebook",
+                            "instagram",
+                            "youtube"
+                        ],
+                        "properties": {
+                            "twitter": {
+                                "$id": "#/items/anyOf/0/properties/social/properties/twitter",
+                                "type": "string",
+                                "title": "The twitter schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    "adaGOALS"
+                                ]
+                            },
+                            "facebook": {
+                                "$id": "#/items/anyOf/0/properties/social/properties/facebook",
+                                "type": "string",
+                                "title": "The facebook schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    " "
+                                ]
+                            },
+                            "instagram": {
+                                "$id": "#/items/anyOf/0/properties/social/properties/instagram",
+                                "type": "string",
+                                "title": "The instagram schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    " "
+                                ]
+                            },
+                            "youtube": {
+                                "$id": "#/items/anyOf/0/properties/social/properties/youtube",
+                                "type": "string",
+                                "title": "The youtube schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    " "
+                                ]
+                            }
+                        },
+                        "additionalProperties": true
+                    },
+                    "telegram": {
+                        "$id": "#/items/anyOf/0/properties/telegram",
+                        "type": "string",
+                        "title": "The telegram schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "ADA_Goals_Stake_Pool"
+                        ]
+                    },
+                    "operatorName": {
+                        "$id": "#/items/anyOf/0/properties/operatorName",
+                        "type": "string",
+                        "title": "The operatorName schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "John Doe"
+                        ]
+                    },
+                    "github": {
+                        "$id": "#/items/anyOf/0/properties/github",
+                        "type": "string",
+                        "title": "The github schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "ada-goals"
+                        ]
+                    }
+                },
+                "additionalProperties": true
+            }
+        ]
+    }
+}

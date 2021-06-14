@@ -1,0 +1,31 @@
+
+{
+    "adapools": {
+      "about": {
+        "name": "Cardano Renewable Energy Stake Pool Alliance",
+        "description_short": "Cardano Renewable Energy Stake Pool Alliance is a loosely affiliated group of Cardano stake pool operators who utilize renewable energy sources to power their pools.",
+        "description_long": "CRESPA's main goal to  promote the use of renewable energy amongst stake pool operators. CRESPA has no central authority or leadership.  We simply believe in a brighter, cleaner tomorrow.",
+        "website": "",
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "social": {
+          "twitter_handle": "CardanoRESPA",
+          "telegram_handle": "CardanoRESPA",
+          "facebook_handle": "",
+          "youtube_handle": "",
+          "twitch_handle": "",
+          "discord_handle": "",
+          "github_handle": "CardanoRESPA"
+        },
+        "types": {
+          "charity": false,
+          "business": false,
+          "beneficial": true
+        }
+      },
+      "members": {
+        "0": {
+          "pool_id": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",
+          "member_since": "2021-06-13",
+          "name": "GOALS"
+        },
