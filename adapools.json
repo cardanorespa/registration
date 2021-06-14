@@ -34,4 +34,9 @@
           "pool_id": "pool1c0nsyh46ucuwn9xpf8jhq05zvxdnrztuncwkflrgf7quyvh82q0",
           "member_since": "2021-06-14",
           "name": "MINI1"
+        },
+          "2": {
+          "pool_id": "pool1xj5f7a79lnc9v0gjn00fkf2lyzexngka59tpcew5rrkyqveagpt",
+          "member_since": "2021-06-14",
+          "name": "GREEN"
         }
