@@ -1,43 +1,45 @@
 
 {
-    "adapools": {
-      "about": {
-        "name": "Cardano Renewable Energy Stake Pool Alliance",
-        "description_short": "Cardano Renewable Energy Stake Pool Alliance is a loosely affiliated group of Cardano stake pool operators who utilize renewable energy sources to power their pools.",
-        "description_long": "CRESPA's main goal is to promote the use of renewable energy amongst stake pool operators. CRESPA has no central authority or leadership.  We simply believe in a brighter, cleaner tomorrow.",
-        "website": "",
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
-        "social": {
-          "twitter_handle": "CardanoRESPA",
-          "telegram_handle": "CardanoRESPA",
-          "facebook_handle": "",
-          "youtube_handle": "",
-          "twitch_handle": "",
-          "discord_handle": "",
-          "github_handle": "CardanoRESPA"
-        },
-        "types": {
-          "charity": false,
-          "business": false,
-          "beneficial": true
-        }
-      },
-      "members": {
-        "0": {
-          "pool_id": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
-          "member_since": "2021-06-13",
-          "name": "GOALS"
-        },
+	"adapools": {
+		"about": {
+			"name": "Cardano Renewable Energy Stake Pool Alliance",
+			"description_short": "Cardano Renewable Energy Stake Pool Alliance is a loosely affiliated group of Cardano stake pool operators who utilize renewable energy sources to power their pools.",
+			"description_long": "CRESPA's main goal is to promote the use of renewable energy amongst stake pool operators. CRESPA has no central authority or leadership.  We simply believe in a brighter, cleaner tomorrow.",
+			"website": "",
+			"url_png_icon_64x64": "",
+			"url_png_logo": "",
+			"social": {
+				"twitter_handle": "CardanoRESPA",
+				"telegram_handle": "CardanoRESPA",
+				"facebook_handle": "",
+				"youtube_handle": "",
+				"twitch_handle": "",
+				"discord_handle": "",
+				"github_handle": "CardanoRESPA"
+			},
+			"types": {
+				"charity": false,
+				"business": false,
+				"beneficial": true
+			}
+		},
+		"members": {
+			"0": {
+				"pool_id": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
+				"member_since": "2021-06-13",
+				"name": "GOALS"
+			},
 
-        "1": {
-          "pool_id": "c3e7025ebae638e994c149e5703e82619b31897c9e1d64fc684f81c2",
-          "member_since": "2021-06-14",
-          "name": "MINI1"
-        },
-          "2": {
-          "pool_id": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40",
-          "member_since": "2021-06-14",
-          "name": "GREEN"
-        }
-    }
+			"1": {
+				"pool_id": "c3e7025ebae638e994c149e5703e82619b31897c9e1d64fc684f81c2",
+				"member_since": "2021-06-14",
+				"name": "MINI1"
+			},
+			"2": {
+				"pool_id": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40",
+				"member_since": "2021-06-14",
+				"name": "GREEN"
+			}
+		}
+	}
+}
