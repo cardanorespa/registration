@@ -1,16 +1,16 @@
 [
     {
-        "ticker":"GOALS",
+        "ticker":"FUNGI",
         "poolId":"9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
         "social":{
            "facebook":"",
-           "twitter":"adaGOALS",
-           "website":"https://ada-goals.com",
-           "reddit":"GOALS_Stake_Pool",
+           "twitter":"FUNGIpool",
+           "website":"https://fungi-pool.com",
+           "reddit":"FUNGI_Stake_Pool",
            "instagram":"",
            "youtube":""
         },
-        "telegram":"ADA_Goals_Stake_Pool",
+        "telegram":"FUNGI_Stake_Pool",
         "operatorName":"",
         "github":""
     },
