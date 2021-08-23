@@ -8,15 +8,15 @@
     "examples": [
         [
             {
-                "ticker": "GOALS",
+                "ticker": "FUNGI",
                 "poolId": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",
                 "social": {
-                    "twitter": "adaGOALS",
+                    "twitter": "FungiPool",
                     "facebook": " ",
                     "instagram": " ",
                     "youtube": " "
                 },
-                "telegram": "ADA_Goals_Stake_Pool",
+                "telegram": "FUNGI_Stake_Pool",
                 "operatorName": " ",
                 "github": " "
             }
@@ -34,15 +34,15 @@
                 "default": {},
                 "examples": [
                     {
-                        "ticker": "GOALS",
+                        "ticker": "FUNGI",
                         "poolId": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",
                         "social": {
-                            "twitter": "adaGOALS",
+                            "twitter": "FungiPool",
                             "facebook": " ",
                             "instagram": " ",
                             "youtube": " "
                         },
-                        "telegram": "ADA_Goals_Stake_Pool",
+                        "telegram": "FUNGI_Stake_Pool",
                         "operatorName": " ",
                         "github": " "
                     }
@@ -82,7 +82,7 @@
                         "default": {},
                         "examples": [
                             {
-                                "twitter": "adaGOALS",
+                                "twitter": "FungiPool",
                                 "facebook": " ",
                                 "instagram": " ",
                                 "youtube": " "
@@ -102,7 +102,7 @@
                                 "description": "An explanation about the purpose of this instance.",
                                 "default": "",
                                 "examples": [
-                                    "adaGOALS"
+                                    "FungiPool"
                                 ]
                             },
                             "facebook": {
@@ -145,7 +145,7 @@
                         "description": "An explanation about the purpose of this instance.",
                         "default": "",
                         "examples": [
-                            "ADA_Goals_Stake_Pool"
+                            "Fungi_Stake_Pool"
                         ]
                     },
                     "operatorName": {
@@ -165,7 +165,7 @@
                         "description": "An explanation about the purpose of this instance.",
                         "default": "",
                         "examples": [
-                            "ada-goals"
+                            "fungi-pool"
                         ]
                     }
                 },
