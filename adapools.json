@@ -39,7 +39,11 @@
 				"pool_id": "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40",
 				"member_since": "2021-06-14",
 				"name": "GREEN"
-			}
+			},
+			"3": {
+				"pool_id": "fb82466458cb60c5295b8d335c24c83d85d510e0e012b877bcadbe98",
+				"member_since": "2021-08-23",
+				"name": "GUI"
 		}
 	}
 }
