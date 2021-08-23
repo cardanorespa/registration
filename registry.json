@@ -43,5 +43,18 @@
         "telegram":"@gr88nd48l",
         "operatorName":"",
         "github":""
+    },
+    {
+        "ticker": "GUI",
+        "poolId": "fb82466458cb60c5295b8d335c24c83d85d510e0e012b877bcadbe98",
+        "social": {
+           "twitter": "gooWeeLLC",
+           "facebook": "gooweellc",
+           "instagram": "gooWeeTech",
+           "youtube": "UCPJ4UFyhEpqxYgcAWkplchw"
+        },
+        "telegram": "guiPoolIan",
+        "operatorName": "Ian Strouse",
+        "github": "goowee"
     }
 ]
