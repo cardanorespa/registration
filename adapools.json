@@ -18,7 +18,7 @@
 				"github_handle": "CardanoRESPA"
 			},
 			"types": {
-				"charity": true,
+				"charity": false,
 				"business": false,
 				"beneficial": true
 			}
