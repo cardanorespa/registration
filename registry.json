@@ -69,6 +69,21 @@
         "telegram": "reservoirNode",
         "operatorName": "",
         "github": ""
+    },
+        {
+        "ticker":"OTG",
+        "poolId":"c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae",
+        "social":{
+           "facebook":"",
+           "twitter":"OTG_WCat",
+           "website":"https://adamantium.online",
+           "reddit":"",
+           "instagram":"",
+           "youtube":""
+        },
+        "telegram":"@WCatz",
+        "operatorName":"WCat",
+        "github":"wcatz"
     }
     
 ]
