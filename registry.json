@@ -99,6 +99,21 @@
         "telegram":"@litem39",
         "operatorName":"",
         "github":""
-    }
+    },
+        {
+        "ticker":"LGBTQ",
+        "poolId":"fc0ef418b0cce20c7a1ac7b8aec9dabd8e9e83b3fcb88c228b4f2c1d",
+        "social":{
+           "facebook":"",
+           "twitter":"LGBTQstakepool",
+           "website":"https://lgbtqpool.com/",
+           "reddit":"",
+           "instagram":"",
+           "youtube":""
+        },
+        "telegram":"",
+        "operatorName":"LGBTQ",
+        "github":"lgbtqpool"
+    }    
     
 ]
