@@ -129,5 +129,20 @@
         "telegram":"yatoharlock",
         "operatorName":"",
         "github":"lophre"
-    }     
+    },  
+    {
+        "ticker":"MOKUM",
+        "poolId":"1ae768c8f263ddf7804a91cc0ade84cddfc63a2697a274a3fa762b0c",
+        "social":{
+           "facebook":"",
+           "twitter":"",
+           "website":"http://mokumstakepool.com/",
+           "reddit":"",
+           "instagram":"",
+           "youtube":""
+        },
+        "telegram":"",
+        "operatorName":"Fabian",
+        "github":""
+    } 
 ]
