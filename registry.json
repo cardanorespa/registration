@@ -144,5 +144,20 @@
         "telegram":"",
         "operatorName":"Fabian",
         "github":""
+    },
+    {
+        "ticker":"ATADA",
+        "poolId":"00000036d515e12e18cd3c88c74f09a67984c2c279a5296aa96efe89",
+        "social":{
+           "facebook":"ATADA.StakePool.Austria",
+           "twitter":"ATADA_Stakepool",
+           "website":"https://stakepool.at",
+           "reddit":"",
+           "instagram":"",
+           "youtube":""
+        },
+        "telegram":"atada_stakepool_austria",
+        "operatorName":"Martin",
+        "github":"gitmachtl"
     } 
 ]
