@@ -159,5 +159,20 @@
         "telegram":"atada_stakepool_austria",
         "operatorName":"Martin",
         "github":"gitmachtl"
+    },
+    {
+        "ticker":"001",
+        "poolId":"386c5cc510bb93b7a85d741af0170e873fe7477534199dec4b2725db",
+        "social":{
+           "facebook":"",
+           "twitter":"",
+           "website":"https://cardanoistheway.com/",
+           "reddit":"",
+           "instagram":"",
+           "youtube":""
+        },
+        "telegram":"CITW001",
+        "operatorName":"Jay",
+        "github":"citw2"
     } 
 ]
