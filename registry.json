@@ -159,5 +159,20 @@
         "telegram":"atada_stakepool_austria",
         "operatorName":"Martin",
         "github":"gitmachtl"
-    } 
+    },
+    {
+        "ticker":"ZPCT",
+        "poolId":"d04e478446390de60b5905a0e29a57bc562c936c3620b1a1763cf0ef",
+        "social":{
+           "facebook":"https://www.facebook.com/zeropercentstaking",
+           "twitter":"",
+           "website":"https://zeropercentstaking.com",
+           "reddit":"",
+           "instagram":"",
+           "youtube":""
+        },
+        "telegram":"",
+        "operatorName":"",
+        "github":""
+    }
 ]
