@@ -159,5 +159,20 @@
         "telegram":"atada_stakepool_austria",
         "operatorName":"Martin",
         "github":"gitmachtl"
-    } 
+    },
+        {
+        "ticker":"ARM1",
+        "poolId":"a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
+        "social":{
+           "facebook":"",
+           "twitter":"ArmADApool",
+           "website":"https://www.armadastakepool.com",
+           "reddit":"",
+           "instagram":"",
+           "youtube":""
+        },
+        "telegram":"",
+        "operatorName":"Vio",
+        "github":""
+    
 ]
